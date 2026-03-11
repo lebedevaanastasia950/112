@@ -1,4 +1,4 @@
-name: SOL Monitor Bot
+name: SOL_Bot
 
 on:
   schedule:
