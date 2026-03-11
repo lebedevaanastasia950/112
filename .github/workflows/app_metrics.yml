@@ -3,7 +3,7 @@ name: SOL Monitor Bot
 on:
   schedule:
     # Приклад: запуск о 15-й хвилині кожні 4 години (щоб не одночасно з іншими)
-    - cron: '15 */4 * * *'
+    - cron: '17 */8 * * *'
   workflow_dispatch:
 
 jobs:
